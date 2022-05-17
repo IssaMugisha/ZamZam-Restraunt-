@@ -107,7 +107,7 @@ footer{
   color: blue;
 }
 
-@media screen and (min-width:150px){
+@media (min-width:150px){
   #navbar ul{overflow: hidden}
   li a {float: left}
   
