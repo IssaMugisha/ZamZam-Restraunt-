@@ -39,12 +39,13 @@ h2 {
   margin: 3px;
   list-style: none;
   @media (max-width:768px){
-    display:block;
+    #navbar { display:block;
     font-size: 20px;
+    }
   }
   @media (max-width:$844px){
-    display:block;
-    font-size: 20px;
+   #navbar li {display:block;
+     font-size: 20px;}
   }
 
 }
