@@ -44,8 +44,7 @@ h2 {
     }
   
   @media (max-width: 844px){
-   #navbar li { 
-     display: block;
+    display: block;
      font-size: 20px;
     }
   }
