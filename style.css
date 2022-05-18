@@ -12,7 +12,7 @@ body {
 #navbar {
   background: black;
   height: 10vh;
-  width: 100%;
+  max-width: 100%;
   position: fixed;
   top: 0;
   z-index: 1;
