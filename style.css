@@ -128,12 +128,5 @@ footer {
   color: blue;
 }
 
-@media screen and (min-width: 150px) {
-  #navbar ul {
-    overflow: hidden;
-  }
-  li a {
-    float: left;
-  }
-}
+
 /*# sourceMappingURL=style.css.map */
