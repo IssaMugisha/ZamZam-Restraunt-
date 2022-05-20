@@ -116,9 +116,10 @@ section img {
 footer {
   background-color: white;
   position: relative;
-  height: 100vh;
+  max-height: 100vh;
   margin-top: -100px;
   clear: both;
+  padding: 1 rem;
 }
 
 .footer h3 {
